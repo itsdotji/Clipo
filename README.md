@@ -32,7 +32,7 @@ Clone the repository
 
 git clone
 
-https://itsdotji/github.io/Clipo/
+https://getclipo.netlify.app
 
 Run locally
 
