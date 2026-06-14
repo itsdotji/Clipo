@@ -24,29 +24,10 @@ CLIPO is an open-source background remover and editor powered by browser-based A
 
 CLIPO processes images locally within your browser. Your files are not uploaded to our servers for image processing.
 
-After the initial model download, all image processing runs on your device.
-
-🚀 Getting Started
-
-Clone the repository
-
-git clone
+🚀 LIVE ON INTERNET: 
 
 https://getclipo.netlify.app
 
-Run locally
-
-Simply open "index.html" in your browser.
-
-For a better development experience, you can also use a local server:
-
-npx serve
-
-or
-
-python -m http.server
-
-Then open the provided local URL in your browser.
 
 🧠 Built With
 
