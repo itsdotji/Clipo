@@ -30,7 +30,9 @@ After the initial model download, all image processing runs on your device.
 
 Clone the repository
 
-git clone https://itsdotji/GitHub.io/Clipo/
+git clone
+
+https://itsdotji/github.io/Clipo/
 
 Run locally
 
